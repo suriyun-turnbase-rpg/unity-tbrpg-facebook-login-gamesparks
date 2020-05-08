@@ -1574,7 +1574,7 @@ Prefab:
     - target: {fileID: 224020205445978524, guid: 6a9fd3e6dc40b30479a711d14d8796ef,
         type: 2}
       propertyPath: m_AnchoredPosition.y
-      value: -0.000033511747
+      value: 0.000011704569
       objectReference: {fileID: 0}
     - target: {fileID: 224825897564630352, guid: 6a9fd3e6dc40b30479a711d14d8796ef,
         type: 2}
@@ -1851,6 +1851,16 @@ Prefab:
         type: 2}
       propertyPath: m_SizeDelta.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114874878308025506, guid: 61c4e01d7199cb142951847dfda8ca7b,
+        type: 2}
+      propertyPath: eventRegister.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1978949836}
+    - target: {fileID: 114874878308025506, guid: 61c4e01d7199cb142951847dfda8ca7b,
+        type: 2}
+      propertyPath: eventRegister.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: Hide
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 61c4e01d7199cb142951847dfda8ca7b, type: 2}
